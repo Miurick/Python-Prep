@@ -6,6 +6,8 @@
 # 1) Crear una variable que contenga un elemento del conjunto de números enteros y luego imprimir por pantalla
 
 # In[7]:
+x = 8 
+print(x)
 
 
 
